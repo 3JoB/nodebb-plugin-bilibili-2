@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-bilibili",
-	"name": "NodeBB BiliBili Plugin",
-	"description": "NodeBB Plugin that allows users to embed BiliBili videos inline in their posts.",
-	"url": "https://github.com/JLChnToZ/nodebb-plugin-bilibili",
+	"id": "nodebb-plugin-bilibili-2",
+	"name": "NodeBB BiliBili 2 Plugin",
+	"description": "将Bilibili的视频嵌入帖子中,支持BV.",
+	"url": "https://github.com/3JoB/nodebb-plugin-bilibili-2",
 	"library": "./index.js",
 	"less": [
 		"responsive-embed.less"
