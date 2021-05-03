@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-plugin-bilibili-2",
+  "name": "nodebb-plugin-bilibili-bv",
   "version": "1.0.0",
   "description": "将Bilibili的视频嵌入帖子中,支持BV",
   "main": "index.js",
@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/3JoB/nodebb-plugin-bilibili-2.git"
+    "url": "git+https://github.com/3JoB/nodebb-plugin-bilibili-bv.git"
   },
   "author": "3job",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/3JoB/nodebb-plugin-bilibili-2/issues"
+    "url": "https://github.com/3JoB/nodebb-plugin-bilibili-bv/issues"
   },
-  "homepage": "https://github.com/3JoB/nodebb-plugin-bilibili-2#readme"
+  "homepage": "https://github.com/3JoB/nodebb-plugin-bilibili-bv#readme"
 }
