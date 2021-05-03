@@ -1,21 +1,32 @@
 {
   "name": "nodebb-plugin-bilibili-bv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "将Bilibili的视频嵌入帖子中,支持BV",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bundleDependencies": false,
+  "deprecated": false,
   "keywords": [
     "NodeBB",
     "Plugin",
-    "bilibili"
+    "bilibili",
+    "b23",
+    "bv"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/3JoB/nodebb-plugin-bilibili-bv.git"
   },
-  "author": "3job",
+  "author": {
+    "name": "3JoB",
+    "email": "cangguei176@outlook.com",
+    "url": "https://forum.lcag.org/"
+  },
+  "nbbpm": {
+    "compatibility": "^1.6.1"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/3JoB/nodebb-plugin-bilibili-bv/issues"
