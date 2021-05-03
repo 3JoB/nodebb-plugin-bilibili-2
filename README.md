@@ -2,9 +2,14 @@
 
 This NodeBB plugin allows users to embed [BiliBili](http://www.bilibili.com/) videos inline in their posts.
 
+This version is a modified version, supports the BV number, and does not guarantee stability
+
+# Tips
+This branch version supports BV
+
 ## Installation
 
-    npm install nodebb-plugin-bilibili
+    npm install nodebb-plugin-bilibili-2
 
 ## screenshots
 
