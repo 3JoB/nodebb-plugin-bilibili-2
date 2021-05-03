@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-bilibili-2",
-	"name": "NodeBB BiliBili 2 Plugin",
+	"id": "nodebb-plugin-bilibili-bv",
+	"name": "NodeBB BiliBili BV Plugin",
 	"description": "将Bilibili的视频嵌入帖子中,支持BV.",
-	"url": "https://github.com/3JoB/nodebb-plugin-bilibili-2",
+	"url": "https://github.com/3JoB/nodebb-plugin-bilibili-bv",
 	"library": "./index.js",
 	"less": [
 		"responsive-embed.less"
