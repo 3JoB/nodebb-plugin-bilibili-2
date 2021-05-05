@@ -9,7 +9,7 @@ This branch version supports BV
 
 ## Installation
 
-    npm install nodebb-plugin-bilibili-2
+    npm install nodebb-plugin-bilibili-bv
 
 ## screenshots
 
