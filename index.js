@@ -56,7 +56,7 @@
 	};
 
 	bili.addScripts = function (scripts, callback) {
-		scripts.push('/assets/src/bilibili.js');
+		scripts.push('/plugins/nodebb-plugin-bilibili-bv/lib/bilibili.js');
 		callback(null, scripts);
 	}
 })(module.exports);
