@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-bilibili-bv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "将Bilibili的视频嵌入帖子中,支持BV",
   "main": "index.js",
   "scripts": {
